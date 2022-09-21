@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+	background: #FFE4C4;
+}
+
+h1{
+	font-size: 60px;
+	color: #8FBC8F;
+}
+p{
+	font-size: 30px;
+	color: #FFB6C1;
+}
+
+.mb-3{
+	font-size: 20px;
+	color: #48D1CC;
+	border: 5px double #8FBC8F;
+	
+}

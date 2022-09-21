@@ -1,0 +1,78 @@
+@charset "UTF-8";
+body {
+	background-color: #F4F1DE;
+	display: flex;
+	justify-content: center;
+}
+h1 {
+	text-align: center;
+	color: #8FBC8F;
+	font-size: 90px;
+	letter-spacing: 2px;
+}
+h2 {
+	text-align: center;
+	color: #008B8B;
+	font-size: 60px;
+	letter-spacing: 2px;
+}
+th {
+	text-align: center;
+	font-size: 24px;
+	letter-spacing: 5px;
+	color: #E07A5F;
+}
+
+td {
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.toppart {
+	margin-top: 40px;
+}
+.tableone {
+	width: 80%;
+}
+a {
+	text-decoration-line: none;
+	font-weight: bold;
+	color: #DB7093;
+	font-size: 20px;
+}
+.formsss {
+	font-size: 23px;
+	letter-spacing: 5x;
+	font-weight: bold;
+	color: #9370DB;
+	justify-content: center;
+	width: 100%;
+	border-style: dotted;
+	border-color: #DCDCDC;
+	display: flex;
+	padding: 50px;
+}
+.form {
+	font-size: 23px;
+	letter-spacing: 5x;
+	font-weight: bold;
+	color: #9370DB;
+	border-style: dotted;
+	border-color: #DCDCDC;
+	padding: 50px;
+	justify-content: center;
+	margin-top: 40px;
+}
+	
+.colh {
+	text-align: center;
+	font-size: 24px;
+	letter-spacing: 5px;
+	color: #E07A5F;
+}
+
+.col {
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}

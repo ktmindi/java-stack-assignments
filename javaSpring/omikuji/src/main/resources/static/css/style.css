@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+	background-color: #FAEBD7;
+	font-family: Monospace;
+	display:flex;
+	justify-content: center;
+}
+
+.container {
+	text-align: center;
+	padding: 30px;
+	border: 5px double #8FBC8F;
+	width: 500px;
+	height: 600px;
+}
+
+
+
+h1 {
+	font-size: 60px;
+	color: #8FBC8F;
+}
+
+
+
+p {
+	font-size: 30px;
+}
+
+.input {
+	color: #F08080;
+	line-height: 1.8;
+}
+
+button {
+	font-size: 20px;
+	background-color: #D8BFD8;
+	width: 150px;
+	height: 30px;
+}

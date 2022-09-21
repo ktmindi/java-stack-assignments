@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+body{
+	background: #F0FFF0;
+}
+
+h1{
+	color: #8FBC8F;
+	margin-top: 50px;
+	letter-spacing: 4px;
+	
+}
+h3{
+	font-size:40px;
+	letter-spacing: 2px;
+	margin: 20px 0px;
+	
+}
+th{
+	color: #BC8F8F;
+}
+
+td{
+	text-transform:lowercase;
+}
+
+p{
+	font-size: 30px;
+	color: #FFB6C1;
+}
+
+.mb-3{
+	font-size: 20px;
+	color: #48D1CC;
+	border: 5px double #8FBC8F;
+	
+}
+
+.my-custom-scrollbar {
+	position: relative;
+	height: 400px;
+	overflow: auto;
+}
+.table-wrapper-scroll-y {
+	display: block;
+	font-size: 20px;
+}
+
+.form-group lead{
+	font-size: 15px;
+}
+
+.nav-link{
+	color: white;
+	height: 30px;
+	font-size: 20px;
+	display: inline;
+	padding-right: 40px;
+
+}
+.dbtitle{
+	text-decoration: none;
+	color: #6B8E23;
+}
+.card-text{
+	color: #BC8F8F;
+	padding: 30px;
+}
+
+.card{
+	background: #FAF0E6;
+}
+.card-body{
+	padding: 50px;
+}
+
+.lead{
+	font-size: 30px;
+}
+.formsizing{
+	padding: 50px;
+	border-radius: 25px;
+  	border: 2px solid #BC8F8F;
+}

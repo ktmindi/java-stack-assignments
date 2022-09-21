@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {
+	background-color: #ADD8E6;
+	display: flex;
+	justify-content: center;
+}
+
+h1 {
+	font-size: 90px;
+	color: #00008B;
+	text-align:center;
+}
+th {
+	font-size: 30px;
+	color: #66CDAA;
+	letter-spacing: 3px;	
+}
+
+tr {
+	font-size: 20px;
+	color: black;
+}
